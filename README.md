@@ -5,3 +5,4 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=peach-lasagna&theme=vue&repo=Idea-Manager )](https://github.com/peach-lasagna/Idea-Manager)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=peach-lasagna&theme=vue&repo=pypoetry-vscode )](https://github.com/peach-lasagna/pypoetry-vscode)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=peach-lasagna&theme=vue&repo=vkwave )](https://github.com/peach-lasagna/vkwave)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=peach-lasagna&theme=vue&repo=dataclass_factory )](https://github.com/peach-lasagna/dataclass_factory)
