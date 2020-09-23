@@ -2,6 +2,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=peach-lasagna&theme=vue )
 ## 😎 My repos:
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=peach-lasagna&theme=vue&repo=dataclass_factory )](https://github.com/peach-lasagna/dataclass_factory)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=peach-lasagna&theme=vue&repo=Idea-Manager )](https://github.com/peach-lasagna/Idea-Manager)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=peach-lasagna&theme=vue&repo=vkwave )](https://github.com/peach-lasagna/vkwave)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=peach-lasagna&theme=vue&repo=Idea-Manager )](https://github.com/peach-lasagna/Idea-Manager)
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=peach-lasagna&theme=vue&repo=dataclass_factory )](https://github.com/peach-lasagna/dataclass_factory)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=peach-lasagna&theme=vue&repo=cookie_classic )](https://github.com/peach-lasagna/cookie_classic)
